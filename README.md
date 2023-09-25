@@ -51,8 +51,8 @@
 
 ##  🌏 Links:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
+[<img align="left" alt="LinkedIn" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/mai-hesham-ghoniem
 [kaggle]: https://www.kaggle.com/maihesham103
