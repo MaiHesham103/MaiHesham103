@@ -20,7 +20,7 @@
 
   <br> <br/>
 
-## 🔨 Languages and Tools:
+## 👩‍💻 Languages and Tools:
   
 <a href="https://www.java.com" target="_blank">
   <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
@@ -49,7 +49,7 @@
 
 <br> <br/>
 
-## 🔗 Links
+##  🌏 Links:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
