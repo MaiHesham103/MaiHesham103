@@ -6,9 +6,7 @@
 
 🔥 I'm eager to dive deeper into the world of data science and work on more projects that can make a positive impact on the world.
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="https://giphy.com/embed/BACNp4PYgXACSPujxi" width="500" height="320" />
-
 🙆‍♀️ As a beginner in this field, here are some of the projects where I've applied what I've learned:
+
 
 
