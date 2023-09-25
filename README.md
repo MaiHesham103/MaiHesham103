@@ -50,14 +50,9 @@
 <br> <br/>
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mai-hesham-ghoniem))
-[![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)]([https://kaggle.com/](https://www.kaggle.com/maihesham103)https://www.kaggle.com/maihesham103)
 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+[<img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
 
-
-
-
-
-
-
-
+[linkedin]: https://www.linkedin.com/in/mai-hesham-ghoniem
+[kaggle]: https://www.kaggle.com/maihesham103
