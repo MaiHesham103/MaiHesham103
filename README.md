@@ -6,15 +6,15 @@
 
 **🙆‍♀️ As a beginner in this field, here are some of the projects where I've applied what I've learned:**
 
-✈️[Airline Customer Satisfaction](https://github.com/MaiHesham103/Airlines-Customer-Satisfaction/blob/main/airlines-customer-satisfaction-eda-modeling.ipynb)
-  This project aims to analyze and improve airline passenger satisfaction through data-driven insights and predictive modeling.
+- [Airline Customer Satisfaction✈️](https://github.com/MaiHesham103/Airlines-Customer-Satisfaction/blob/main/airlines-customer-satisfaction-eda-modeling.ipynb)
+  - This project aims to analyze and improve airline passenger satisfaction through data-driven insights and predictive modeling.
   
-🚴‍♀️[Predict count of Bike Sharing Demand](https://github.com/MaiHesham103/Predict-count-of-Bike-Sharing-Demand./blob/main/predict-count-of-bike-sharing-demand.ipynb)
-  Leveraging machine learning algorithms, this project aims to forecast bike rental counts based on various environmental and seasonal factors, helping to optimize bike 
-  availability and improve user convenience.
+- [Predict count of Bike Sharing Demand🚴‍♀️](https://github.com/MaiHesham103/Predict-count-of-Bike-Sharing-Demand./blob/main/predict-count-of-bike-sharing-demand.ipynb)
+  - Leveraging machine learning algorithms, this project aims to forecast bike rental counts based on various environmental and seasonal factors, helping to optimize bike 
+    availability and improve user convenience.
   
-🧠[Brain stroke classification](https://github.com/MaiHesham103/Brain-stroke-classification/blob/main/brain-stroke-classification.ipynb)
-  This project predicts stroke risk using data-driven machine learning, empowered by resampling techniques, to advance healthcare.
+- [Brain stroke classification🧠](https://github.com/MaiHesham103/Brain-stroke-classification/blob/main/brain-stroke-classification.ipynb)
+  - This project predicts stroke risk using data-driven machine learning, empowered by resampling techniques, to advance healthcare.
   
 
 
