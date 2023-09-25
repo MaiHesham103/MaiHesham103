@@ -1,12 +1,12 @@
 🌞🌼
-# Hi, I'm Mai Hesham!🤝
+# Hi, I'm Mai!🤝
 ✨ I'm still a student at Al-Azhar University's College of Engineering, and I have a strong interest in programming and everything related to it. However, my true passion lies in the field of data science.
 🤩 I love to learn and share knowledge, and I thrive in group settings and with friends who share similar interests. 
 🔥 I'm eager to dive deeper into the world of data science and work on more projects that can make a positive impact on the world.
 
 <br> <br/>
 
-## 🙆‍♀️ As a beginner in this field, here are Some of the latest projects where I've applied what I've learned:
+## 🙆‍♀️ Take a look at Some of the latest projects where I've applied what I've learned:
 
 - [Airline Customer Satisfaction✈️](https://github.com/MaiHesham103/Airlines-Customer-Satisfaction/blob/main/airlines-customer-satisfaction-eda-modeling.ipynb)
   This project aims to analyze and improve airline passenger satisfaction through data-driven insights and predictive modeling.
@@ -46,6 +46,13 @@
 <a href="https://scikit-learn.org/" target="_blank">
   <img align="left" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>
 </a>
+
+<br> <br/>
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mai-hesham-ghoniem))
+[![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)]([https://kaggle.com/](https://www.kaggle.com/maihesham103)https://www.kaggle.com/maihesham103)
+
 
 
 
