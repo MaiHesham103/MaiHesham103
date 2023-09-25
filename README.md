@@ -1,16 +1,14 @@
-### Hi there 👋
+🌞🌼
+# Hi, I'm Mai Hesham!🤝
+✨ I'm still a student at Al-Azhar University's College of Engineering, and I have a strong interest in programming and everything related to it. However, my true passion lies in the field of data science.
 
-<!--
-**MaiHesham103/MaiHesham103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤩 I love to learn and share knowledge, and I thrive in group settings and with friends who share similar interests. 
 
-Here are some ideas to get you started:
+🔥 I'm eager to dive deeper into the world of data science and work on more projects that can make a positive impact on the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- code gif-->
+<img align="right" alt="GIF" src="https://giphy.com/embed/BACNp4PYgXACSPujxi" width="500" height="320" />
+
+🙆‍♀️ As a beginner in this field, here are some of the projects where I've applied what I've learned:
+
+
