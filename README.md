@@ -16,7 +16,7 @@
 - [Brain stroke classification🧠](https://github.com/MaiHesham103/Brain-stroke-classification/blob/main/brain-stroke-classification.ipynb)
   This project predicts stroke risk using data-driven machine learning, empowered by resampling techniques, to advance healthcare.
 
-  ### 🔨 Languages and Tools:
+**🔨 Languages and Tools:**
   
 <a href="https://www.java.com" target="_blank">
   <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
