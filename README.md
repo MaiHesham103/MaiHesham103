@@ -60,4 +60,4 @@
 [kaggle]: https://www.kaggle.com/maihesham103
 
 
-<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='200'/>
+<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='300'/>
