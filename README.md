@@ -6,7 +6,7 @@
 
 <br> <br/>
 
-## 🙆‍♀️ Take a look at Some of the latest projects where I've applied what I've learned:
+## 🚀 Take a look at Some of the latest projects where I've applied what I've learned:
 
 - [Airline Customer Satisfaction✈️](https://github.com/MaiHesham103/Airlines-Customer-Satisfaction/blob/main/airlines-customer-satisfaction-eda-modeling.ipynb)
   This project aims to analyze and improve airline passenger satisfaction through data-driven insights and predictive modeling.
