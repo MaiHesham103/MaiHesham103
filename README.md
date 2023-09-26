@@ -10,9 +10,6 @@
 
 ## 🚀 Take a look at Some of the latest projects where I've applied what I've learned:
 
-<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='300'/>
-
-
 - [Airline Customer Satisfaction✈️](https://github.com/MaiHesham103/Airlines-Customer-Satisfaction/blob/main/airlines-customer-satisfaction-eda-modeling.ipynb)
   This project aims to analyze and improve airline passenger satisfaction through data-driven insights and predictive modeling.
   
@@ -62,4 +59,5 @@
 [linkedin]: https://www.linkedin.com/in/mai-hesham-ghoniem
 [kaggle]: https://www.kaggle.com/maihesham103
 
+<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='300'/>
 
