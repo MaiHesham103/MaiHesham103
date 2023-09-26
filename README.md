@@ -1,5 +1,8 @@
 🌞🌼
 
+<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='300'/>
+
+
 # [Hi, I'm Mai!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ✨ I'm still a student at Al-Azhar University's College of Engineering, and I have a strong interest in programming and everything related to it. However, my true passion lies in the field of data science.
@@ -60,4 +63,3 @@
 [kaggle]: https://www.kaggle.com/maihesham103
 
 
-<img src = 'https://github.com/MaiHesham103/MaiHesham103/assets/123440198/f7fd78a4-50a3-4ade-a980-ff701abf29a0' alt = 'Awesome Matrix Code' align='right' width='300'/>
